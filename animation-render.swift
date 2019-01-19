@@ -4,7 +4,6 @@
 import Foundation
 import AVKit
 import AVFoundation
-import SpriteKit
 
 class RenderAnimation {
   
