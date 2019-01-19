@@ -14,7 +14,7 @@ Text of `CATextLayer` sometimes does not work because of virtual iphone on macbo
 
 
 ## Usage
-code is compatible with `swift 4.2` 
+code is compatible with `swift 4.2`
 
 ### Core animation
 - you have to use CoreAnimation (UIView.animate can't be rendered to the video)
@@ -24,7 +24,9 @@ because AVVideoCompositionCoreAnimationTool cant render animation without bg vid
 you have to create `unecessaryVideo` to your xcode project
 [more about this issue](https://stackoverflow.com/questions/10281872/catextlayer-doesnt-appear-in-an-avmutablecomposition-when-running-from-a-unit-t)
 
-      
+
+
+## Demo  
 
 
 ```swift
